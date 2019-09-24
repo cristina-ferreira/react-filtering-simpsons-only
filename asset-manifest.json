@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-filtering-simpsons-only/static/js/main.54e7b65c.chunk.js",
+    "main.js.map": "/react-filtering-simpsons-only/static/js/main.54e7b65c.chunk.js.map",
+    "runtime~main.js": "/react-filtering-simpsons-only/static/js/runtime~main.ca63fb76.js",
+    "runtime~main.js.map": "/react-filtering-simpsons-only/static/js/runtime~main.ca63fb76.js.map",
+    "static/js/2.9918f956.chunk.js": "/react-filtering-simpsons-only/static/js/2.9918f956.chunk.js",
+    "static/js/2.9918f956.chunk.js.map": "/react-filtering-simpsons-only/static/js/2.9918f956.chunk.js.map",
+    "index.html": "/react-filtering-simpsons-only/index.html",
+    "precache-manifest.16e22fa5da19c75610689b9b6c3443eb.js": "/react-filtering-simpsons-only/precache-manifest.16e22fa5da19c75610689b9b6c3443eb.js",
+    "service-worker.js": "/react-filtering-simpsons-only/service-worker.js"
+  }
+}
